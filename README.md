@@ -12,7 +12,7 @@ Mi trayectoria incluye roles como Programador Full-Stack en la Dirección Genera
 En Usina Estrategias Digitales, lideré la creación de aplicaciones web, asegurando su buen funcionamiento y manteniéndolas actualizadas. 🛠️🔍
 
 Educación y Certificaciones 📚🎓
-Busco constantemente la excelencia y la adaptación a tecnologías emergentes. Actualmente, estoy obteniendo un título en DevOps Engineer y he completado cursos en ReactJS y Bases de Datos. 📜🌟
+Busco constantemente la excelencia y la adaptación a tecnologías emergentes. Actualmente, estoy obteniendo un título en DevOps Engineer. 📜🌟
 
 Habilidades Clave 🔧💡
 Mis habilidades incluyen experiencia en Express.js, MongoDB y Node.js, con conocimientos básicos de inglés. Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de proyectos innovadores. 🚀🔑
