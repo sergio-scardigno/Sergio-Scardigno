@@ -7,7 +7,7 @@
   
 
 Experiencia Profesional 💼
-Mi trayectoria incluye roles como Programador Full-Stack en la Dirección General de Cultura y Educación de la Provincia de Buenos Aires y Desarrollador de PHP en la Honorable Cámara de Diputados y Senadores. Además, he sido Freelancer, trabajando en proyectos diversos y diseñando arquitecturas web robustas. 💡🌐
+Mi trayectoria incluye roles como Programador Full-Stack en la Dirección General de Cultura y Educación de la Provincia de Buenos Aires. Además, he sido Freelancer, trabajando en proyectos diversos y diseñando arquitecturas web robustas. 💡🌐
 
 En Usina Estrategias Digitales, lideré la creación de aplicaciones web, asegurando su buen funcionamiento y manteniéndolas actualizadas. 🛠️🔍
 
