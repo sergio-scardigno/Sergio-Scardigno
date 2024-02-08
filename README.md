@@ -106,7 +106,6 @@ Si buscas colaboración o simplemente quieres hablar sobre tecnología, ¡no dud
 </a>  
 <img src=https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <a href="https://cv-sergio-scardigno.vercel.app/" target="_blank">
-CV
 </a>  
 </div>  
   
