@@ -23,6 +23,8 @@ Si buscas colaboración o simplemente quieres hablar sobre tecnología, ¡no dud
 
 <br/>  
 
+[**Mi CV**](https://cv-sergio-scardigno.vercel.app/)
+
 
 ## Mi conjunto de habilidades  
 <table><tr><td valign="top" width="33%">
