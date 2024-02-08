@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQEZCO0VGov35A/profile-displaybackgroundimage-shrink_350_1400/0/1575542362960?e=1699488000&v=beta&t=tOVjyS3WDJP8hi2VOQCrztntn4QN_L_9dALhiefgcB0" align="center" height="" width="1000" />
-</div>  
-  
+
 
 ### <div align="center">¡Hola! 👋 Soy Sergio Scardigno, un apasionado Programador Full-Stack con experiencia en el desarrollo web y especialización en PHP, Laravel, HTML5 y CSS3. 💻✨</div>  
   
