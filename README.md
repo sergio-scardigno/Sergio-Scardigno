@@ -1,18 +1,42 @@
 
+# 👋 Hola, soy Sergio Scardigno
 
-### <div align="center">¡Hola! 👋 Soy Sergio Scardigno, un apasionado Programador Full-Stack con experiencia en el desarrollo web y especialización en PHP, Laravel, HTML5 y CSS3. 💻✨</div>  
-  
+### 🚀 **Desarrollador Full-Stack apasionado por crear soluciones digitales de alto impacto.**
 
-Experiencia Profesional 💼
-Mi trayectoria incluye roles como Programador Full-Stack en la Dirección General de Cultura y Educación de la Provincia de Buenos Aires. Además, he sido Freelancer, trabajando en proyectos diversos y diseñando arquitecturas web robustas. 💡🌐
+---
 
-En Usina Estrategias Digitales, lideré la creación de aplicaciones web, asegurando su buen funcionamiento y manteniéndolas actualizadas. 🛠️🔍
+## 🎯 **Sobre mí**
+Soy un **Desarrollador Full-Stack** con amplia experiencia en el diseño y desarrollo de aplicaciones web modernas. Mi objetivo principal es crear proyectos funcionales, robustos y atractivos que cumplan con las necesidades del cliente, utilizando tecnologías como **PHP, Laravel, Node.js y MongoDB**. Además, tengo una sólida base en diseño web con **HTML5, CSS3** y herramientas de **UI/UX**.
 
-Habilidades Clave 🔧💡
-Mis habilidades incluyen experiencia en Express.js, MongoDB y Node.js, con conocimientos básicos de inglés. Estoy listo para enfrentar nuevos desafíos y contribuir al éxito de proyectos innovadores. 🚀🔑
+📍 Actualmente me desempeño como desarrollador independiente, colaborando con equipos y clientes en todo el mundo para llevar sus ideas al siguiente nivel.
 
-Conéctate Conmigo 📬🤝
-Si buscas colaboración o simplemente quieres hablar sobre tecnología, ¡no dudes en contactarme! Estoy aquí para ayudar y aprender junto a la comunidad de GitHub. 🌐📲  
+---
+
+## 💻 **Experiencia Profesional**
+
+### Dirección General de Cultura y Educación, Buenos Aires  
+**Desarrollador Full-Stack**  
+- Desarrollo y mantenimiento de plataformas internas para la gestión educativa.  
+- Implementación de soluciones escalables y personalizadas.  
+
+### Usina Estrategias Digitales  
+**Desarrollador Web**  
+- Diseño de arquitecturas web optimizadas para rendimiento y experiencia de usuario.  
+- Mantenimiento y actualización de aplicaciones para clientes estratégicos.  
+
+---
+
+## 🛠️ **Habilidades Técnicas**
+- **Lenguajes y Frameworks**: PHP, Laravel, Node.js, Express.js.  
+- **Bases de Datos**: MySQL, MongoDB.  
+- **Frontend**: HTML5, CSS3, JavaScript.  
+- **Herramientas de Desarrollo**: Git, Docker.  
+
+---
+
+## 📬 **Contáctame**
+Estoy siempre abierto a colaborar en proyectos emocionantes o discutir nuevas ideas tecnológicas. ¡No dudes en conectarte!
+
   
 
 <br/>  
