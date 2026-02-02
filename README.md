@@ -1,75 +1,84 @@
 # 👋 Hola, soy Sergio Scardigno
 
-### 🚀 Desarrollador Full-Stack & DevOps | Backend-first | Seguridad por diseño
+### 🚀 Desarrollador Full-Stack & DevOps  
+**Backend-focused · Seguridad · Arquitectura · Escalabilidad**
 
 ---
 
-## 🎯 Sobre mí
-Soy **Desarrollador Full-Stack con fuerte orientación a Backend y DevOps**, especializado en construir sistemas **seguros, escalables y mantenibles**. Trabajo bajo principios de **Clean Architecture**, **Zero Trust** y **automatización total** desde el código hasta producción.
+## 👨‍💻 Quién soy
+Soy **desarrollador freelance Full-Stack con fuerte orientación a Backend y DevOps**. Me especializo en transformar ideas (o sistemas rotos 😅) en **plataformas sólidas, seguras y listas para escalar**.
 
-Tengo amplia experiencia en **PHP/Laravel**, **Node.js/TypeScript**, **Python**, bases de datos relacionales y NoSQL, y despliegues en infraestructura cloud con **Docker, Kubernetes, Terraform y CI/CD**. No hago “apps que funcionan”: hago **sistemas que resisten**.
+Trabajo tanto solo como integrado a equipos, aportando **criterio técnico**, foco en **buenas prácticas** y una obsesión sana por la **seguridad y la mantenibilidad** del código.
 
-📍 Actualmente trabajo como desarrollador independiente, colaborando con empresas y equipos remotos a nivel global.
-
----
-
-## 🧠 Filosofía de trabajo
-- 🔐 **Seguridad primero** (no negociable).
-- 🧱 Arquitectura antes que features.
-- ⚙️ Automatización sobre procesos manuales.
-- 📈 Escalabilidad real, no promesas.
-- 🧪 Testing como parte del diseño, no como parche.
+📍 Trabajo remoto con clientes y equipos de distintos países.
 
 ---
 
-## 💼 Experiencia Profesional
+## 🤝 Cómo me gusta trabajar
+- Colaborando con otros desarrolladores (code reviews, arquitectura, decisiones técnicas).
+- Pensando en **largo plazo**, no solo en “que funcione”.
+- Automatizando todo lo que se pueda (deploys, tests, infra).
+- Diciendo *no* cuando una solución compromete seguridad o escalabilidad.
+
+---
+
+## 🧠 En qué puedo aportar valor
+- Diseño y desarrollo de **APIs backend** robustas.
+- Arquitectura de aplicaciones web modernas.
+- Refactorización y estabilización de proyectos existentes.
+- Implementación de **CI/CD** e infraestructura cloud.
+- Hardening, performance y observabilidad.
+
+---
+
+## 💼 Experiencia Relevante
 
 ### Dirección General de Cultura y Educación — Buenos Aires  
 **Desarrollador Full-Stack / Backend**  
-- Desarrollo de plataformas internas críticas para gestión educativa.
-- Diseño de APIs seguras, escalables y mantenibles.
-- Optimización de performance, seguridad y observabilidad.
+- Desarrollo de plataformas internas de misión crítica.
+- Diseño de servicios backend escalables y seguros.
+- Mejora continua en performance y estabilidad.
 
 ### Usina Estrategias Digitales  
-**Desarrollador Web / Arquitecto Técnico**  
-- Diseño de arquitecturas web de alto rendimiento.
-- Mantenimiento, refactorización y hardening de sistemas productivos.
-- Implementación de buenas prácticas DevOps y CI/CD.
+**Desarrollador Web / Soporte Técnico Senior**  
+- Arquitectura y mantenimiento de aplicaciones productivas.
+- Optimización de rendimiento y experiencia de usuario.
+- Implementación de flujos DevOps.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 🧑‍💻 Frontend
-HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js, Angular, Tailwind CSS, Material UI, Bootstrap, Chart.js, WordPress, WooCommerce.
+### Backend
+Node.js, TypeScript, PHP, Laravel, Express, Python, C#  
+MySQL, PostgreSQL, MariaDB, MongoDB  
+Nginx
 
-### 🧩 Backend
-Node.js, TypeScript, PHP, Laravel, Express.js, Python, C#, MySQL, PostgreSQL, MariaDB, MongoDB, Nginx.
+### Frontend
+HTML5, CSS3, JavaScript, React, Next.js, Vue.js, Angular  
+Tailwind CSS, Material UI, Bootstrap, Chart.js  
+WordPress, WooCommerce
 
-### ☁️ DevOps & Infraestructura
-Docker, Kubernetes, AWS, Linux, Git, Bash, Terraform, Jenkins, Ansible, Oracle Cloud.
-
----
-
-## 📌 En qué soy especialmente fuerte
-- Diseño de **APIs robustas y seguras**.
-- Arquitectura backend escalable.
-- Infraestructura como código (IaC).
-- CI/CD profesional.
-- Hardening de sistemas.
-- Debugging profundo y resolución de incidentes críticos.
+### DevOps / Infra
+Docker, Kubernetes, AWS, Linux  
+Git, Bash, Terraform, Jenkins, Ansible
 
 ---
 
-## 📬 Contacto
-Siempre abierto a proyectos complejos, desafiantes y de alto impacto.
-
-🔗 **GitHub**: https://github.com/sergio-scardigno
-🔗 **LinkedIn**: https://www.linkedin.com/in/sergio-scardigno/  
-🌐 **CV Online**: https://cv-sergio-scardigno.vercel.app  
+## 🧩 Busco colaborar en
+- Proyectos backend o full-stack con desafíos reales.
+- Equipos que valoren buenas prácticas y seguridad.
+- Startups, productos en crecimiento o sistemas legacy que necesiten orden.
 
 ---
 
-> *“No construyo software que solo funcione hoy. Construyo sistemas que sigan funcionando cuando todo lo demás falla.”*
+## 📬 Conectemos
+Si sos **desarrollador**, **tech lead** o **recruiter** y pensás que puedo sumar valor a tu proyecto o equipo, charlemos.
 
+🔗 GitHub: https://github.com/Scardigno1982  
+🔗 LinkedIn: https://www.linkedin.com/in/sergio-scardigno/  
+🌐 CV Online: https://cv-sergio-scardigno.vercel.app  
 
+---
+
+> *Me gusta el código claro, los sistemas predecibles y los equipos donde se puede discutir arquitectura sin ego.*
