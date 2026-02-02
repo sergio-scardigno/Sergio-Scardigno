@@ -64,7 +64,7 @@ Docker, Kubernetes, AWS, Linux, Git, Bash, Terraform, Jenkins, Ansible, Oracle C
 ## 📬 Contacto
 Siempre abierto a proyectos complejos, desafiantes y de alto impacto.
 
-🔗 **GitHub**: https://github.com/Scardigno1982  
+🔗 **GitHub**: https://github.com/sergio-scardigno
 🔗 **LinkedIn**: https://www.linkedin.com/in/sergio-scardigno/  
 🌐 **CV Online**: https://cv-sergio-scardigno.vercel.app  
 
